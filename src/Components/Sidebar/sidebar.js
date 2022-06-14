@@ -1,10 +1,9 @@
 import React from "react";
 
-export const Sidebar = ()=> {
-    return 
-    (
+export const Sidebar = () => {
+  return (
     <div classNme="cl-sidebar">
-logo here ggg
+      <h1>logo here ggg</h1>
     </div>
-    )
-}
+  );
+};
